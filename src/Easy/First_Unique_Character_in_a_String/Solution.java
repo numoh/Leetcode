@@ -2,6 +2,7 @@ package Easy.First_Unique_Character_in_a_String;
 
 import java.util.HashMap;
 
+// 387
 public class Solution {
 
     public static void main(String[] args) {
