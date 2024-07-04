@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Welcome to my LeetCode solutions repository! Here you'll find my solutions to various LeetCode problems, categorized by difficulty and topic. Feel free to browse through the problems and check out my solutions.
+Welcome to my LeetCode solutions repository! Here you'll find my solutions to various LeetCode problems, categorized by difficulty. Feel free to browse through the problems and check out my solutions.
 
 ## Table of Contents
 
