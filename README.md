@@ -19,7 +19,8 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 | 2037   | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Minimum_Number_Of_Moves_to_Seat_Everyone/Solution.java) | Array, Greedy, Sorting      |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Plus_One/Solution.java) | Array, Math      |
 | 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Shortest_Distance_to_a_Character/Solution.java) | Array, Two Pointers, String    |
-| 674   | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Longest_Continuous_Increasing_Subsequence/Solution.java) | Array    |
+| 674   | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Longest_Continuous_Increasing_Subsequence/Solution.java) | Array    |
+| 645   | [Set Mismatch](https://leetcode.com/problems/set-mismatch/?source=submission-noac) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Set_Mismatch/Solution.java) | Array, Hash Table, Bit Manipulation, Sorting    |
 
 ## Medium
 
