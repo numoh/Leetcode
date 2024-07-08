@@ -28,7 +28,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 
 | #   | Title                           | Solution                      | Topics      |
 |-----|---------------------------------|-------------------------------|------------|
-| 67   | [ADd Two Numbers](https://leetcode.com/problems/add-two-numbers/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Medium/Add_Two_Numbers/Solution.java) | Linked List, Math, Recursion      |
+| 67   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Medium/Add_Two_Numbers/Solution.java) | Linked List, Math, Recursion      |
 
 ## Hard
 
