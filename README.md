@@ -22,6 +22,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 | 674   | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Longest_Continuous_Increasing_Subsequence/Solution.java) | Array    |
 | 645   | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Set_Mismatch/Solution.java) | Array, Hash Table, Bit Manipulation, Sorting    |
 | 136   | [Single Number](https://leetcode.com/problems/single-number/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Single_Number/Solution.java) | Array, Bit Manipulation    |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Climbing_Stairs/Solution.java) | Math, Dynamic Programming, Memoization    |
 
 ## Medium
 
