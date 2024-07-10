@@ -29,6 +29,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 | #   | Title                           | Solution                      | Topics      |
 |-----|---------------------------------|-------------------------------|------------|
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Medium/Add_Two_Numbers/Solution.java) | Linked List, Math, Recursion      |
+| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Medium/Longest_Substring_Without_Repeating_Characters/Solution.java) | Hash Table, String, Sliding Window      |
 
 ## Hard
 
