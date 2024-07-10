@@ -23,6 +23,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 | 645   | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Set_Mismatch/Solution.java) | Array, Hash Table, Bit Manipulation, Sorting    |
 | 136   | [Single Number](https://leetcode.com/problems/single-number/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Single_Number/Solution.java) | Array, Bit Manipulation    |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Climbing_Stairs/Solution.java) | Math, Dynamic Programming, Memoization    |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Two_Sum/Solution.java) | Array, Hash Table    |
 
 ## Medium
 
