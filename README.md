@@ -36,6 +36,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 
 | #   | Title                           | Solution                      | Topics      |
 |-----|---------------------------------|-------------------------------|------------|
+| 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Hard/Median_of_Two_Sorted_Arrays/Solution.java) | Array, Binary Search, Divide and Conquer    |
 
 ## How to Use
 
