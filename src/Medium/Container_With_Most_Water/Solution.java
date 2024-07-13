@@ -7,8 +7,7 @@ public class Solution {
     }
 
     public static int maxArea(int[] height) {
-        int leftPointer = 0, rightPointer = height.length - 1;
-        int maxArea = 0;
+        int leftPointer = 0, rightPointer = height.length - 1, maxArea = 0;
 
         while (leftPointer != rightPointer) {
             maxArea = Math.max(maxArea, Math.min(height[rightPointer], height[leftPointer]) * (rightPointer - leftPointer));
