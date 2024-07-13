@@ -33,6 +33,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Medium/Longest_Substring_Without_Repeating_Characters/Solution.java) | Hash Table, String, Sliding Window      |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Medium/Reverse_Integer/Solution.java) | Math      |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Medium/Container_With_Most_Water/Solution.java) | Array, Two Pointers, Greedy      |
+| 12   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Medium/Integer_to_Roman/Solution.java) | Hash Table, Math, String      |
 
 ## Hard
 
