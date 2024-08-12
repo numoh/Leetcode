@@ -30,6 +30,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 | 344   | [Reverse String](https://leetcode.com/problems/reverse-string/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Reverse_String/Solution.java) | Two Pointers, String    |
 | 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Ransom_Note/Solution.java) | Hash Table, String, Counting    |
 | 389   | [Find the Difference](https://leetcode.com/problems/find-the-difference/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Find_the_Difference/Solution.java) | Hash Table, String, Bit Manipulation, Sorting    |
+| 392   | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Is_Subsequence/Solution.java) | Two Pointers, String, Dynamic Programming    |
 
 ## Medium
 
