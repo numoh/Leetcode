@@ -32,6 +32,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 | 389   | [Find the Difference](https://leetcode.com/problems/find-the-difference/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Find_the_Difference/Solution.java) | Hash Table, String, Bit Manipulation, Sorting    |
 | 392   | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Is_Subsequence/Solution.java) | Two Pointers, String, Dynamic Programming    |
 | 412   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Fizz_Buzz/Solution.java) | Math, String, Simulation    |
+| 415   | [Add Strings](https://leetcode.com/problems/add-strings/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Add_Strings/Solution.java) | Math, String, Simulation    |
 
 ## Medium
 
