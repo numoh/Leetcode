@@ -33,6 +33,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 | 392   | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Is_Subsequence/Solution.java) | Two Pointers, String, Dynamic Programming    |
 | 412   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Fizz_Buzz/Solution.java) | Math, String, Simulation    |
 | 415   | [Add Strings](https://leetcode.com/problems/add-strings/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Add_Strings/Solution.java) | Math, String, Simulation    |
+| 434   | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Number_of_Segments_in_a_String/Solution.java) | String    |
 
 ## Medium
 
