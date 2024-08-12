@@ -26,6 +26,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Two_Sum/Solution.java) | Array, Hash Table    |
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Valid_Palindrome/Solution.java) | Two Pointers, String    |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Remove_Duplicates_from_Sorted_List/Solution.java) | Linked List    |
+| 290   | [Word Pattern](https://leetcode.com/problems/word-pattern/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Word_Pattern/Solution.java) | Hash Table, String    |
 
 ## Medium
 
