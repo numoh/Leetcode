@@ -36,6 +36,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 | 434   | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Number_of_Segments_in_a_String/Solution.java) | String    |
 | 441   | [Arranging Coins](https://leetcode.com/problems/arranging-coins/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Arranging_Coins/Solution.java) | Math, Binary Search    |
 | 448   | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Find_All_Numbers_Disappeared_in_an_Array/Solution.java) | Array, Hash Table    |
+| 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description) | [Java](https://github.com/numoh/Leetcode/blob/main/src/Easy/Lemonade_Change/Solution.java) | Array, Greedy    |
 
 ## Medium
 
